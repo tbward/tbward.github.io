@@ -15,7 +15,7 @@ I love working on projects that involve:
 
 Check out my [GitHub](https://github.com/yourusername) for my latest projects.
 
-## Contact Me
+## Contact M
 
 Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
 
